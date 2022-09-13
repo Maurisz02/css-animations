@@ -65,7 +65,7 @@ body{
 
 }
 
-.container .cigarette span i:last-child:after{
+.container .cigarette span i:last-child{
     color: #f00;
     filter: blur(2px);
     text-shadow: -4px 0 2px #000,
